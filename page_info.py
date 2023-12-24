@@ -6,7 +6,7 @@ def show_info():
 
     st.image('images/yahoo_finance.png')
     st.write('Data yang digunakan adalah data yang diambil dari Yahoo Finance mulai tanggal 1 September 2019 sampai sekarang.')
-    st.write('Data ini berisi tentang saham BBRI. Ke depannya, akan ditambahkan data saham dari perusahaan lainnya dan user bisa memilih perusahaan yang diinginkan.')
+    st.write('User dapat memasukkan kode ticker saham yang ingin dianalisis. Program akan memvisualisasikan analisis dari data saham tersebut.')
 
     st.image('images/yfinance.png')
     st.write('Scraping Yahoo Finance menggunakan Python dengan library yfinance.')
