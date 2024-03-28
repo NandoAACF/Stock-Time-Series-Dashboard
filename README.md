@@ -1,5 +1,5 @@
-# Time Series Stock Analysis
-**Web App: https://time-series-stock-analysis.streamlit.app/**
+# Stock Time Series Dashboard 📈
+**Dashboard: https://stock-time-series-dashboard.streamlit.app/**
 
 **Goal:**
 - User bisa memilih saham yang ingin dianalisis
@@ -7,7 +7,6 @@
 - Memvisualisasikan insight data saham dalam bentuk time series
 - Deploy hasil visualisasi menggunakan Streamlit
 - Otomatis menggunakan data saham terbaru setiap harinya
-- Memprediksi harga saham di hari berikutnya (coming soon)
 
 **Visualization:**
 - Closing price over time
